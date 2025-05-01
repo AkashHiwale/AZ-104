@@ -4,24 +4,6 @@ Welcome to my study notes for the **AZ-104: Microsoft Azure Administrator** cert
 
 ---
 
-## ⚠️ Disclaimer
-
-These notes were generated with the assistance of **AI (ChatGPT by OpenAI)**. While efforts have been made to ensure correctness, **some information may be inaccurate, simplified, or outdated**.  
-📌 **Always cross-check with official Microsoft documentation** before applying to production or studying for certification.
-
----
-
-## 📚 References & Learning Resources
-
-- 🧭 **Microsoft Learn (Official Docs)**  
-  [https://learn.microsoft.com/en-us/certifications/exams/az-104/](https://learn.microsoft.com/en-us/certifications/exams/az-104/)
-
-- 🎥 **Udemy Course by Alan Rodrigues**  
-  [AZ-104: Microsoft Azure Administrator - Full Course](https://www.udemy.com/course/az-104-microsoft-azure-administrator/)  
-  _These notes are based on concepts covered in this course and enhanced using AI explanations for better understanding._
-
----
-
 ## 📂 Table of Contents
 
 | Module | Topic |
@@ -54,6 +36,24 @@ These notes were generated with the assistance of **AI (ChatGPT by OpenAI)**. Wh
   - Storage & Compute Services
   - Virtual Networking
   - Monitoring & Backup
+
+---
+
+## ⚠️ Disclaimer
+
+These notes were generated with the assistance of **AI (ChatGPT by OpenAI)**. While efforts have been made to ensure correctness, **some information may be inaccurate, simplified, or outdated**.  
+📌 **Always cross-check with official Microsoft documentation** before applying to production or studying for certification.
+
+---
+
+## 📚 References & Learning Resources
+
+- 🧭 **Microsoft Learn (Official Docs)**  
+  [https://learn.microsoft.com/en-us/certifications/exams/az-104/](https://learn.microsoft.com/en-us/certifications/exams/az-104/)
+
+- 🎥 **Udemy Course by Alan Rodrigues**  
+  [AZ-104: Microsoft Azure Administrator - Full Course](https://www.udemy.com/course/microsoft-certified-azure-administrator/)  
+  _These notes are based on concepts covered in this course and enhanced using AI explanations for better understanding._
 
 ---
 
