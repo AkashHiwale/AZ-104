@@ -28,7 +28,7 @@
 
 Below is an example diagram showing the architecture of an Azure Virtual Network:
 
-<img src="./images/virtual_network.JPG" alt="Azure Virtual Network Architecture" width="30%"/>
+<img src="./images/virtual_network.JPG" alt="Azure Virtual Network Architecture" width="35%"/>
 
 ---
 
