@@ -40,7 +40,7 @@
 
 Here is an example how subnets are organized inside a VNet:
 
-![Azure Subnet Architecture](https://github.com/AkashHiwale/AZ-104-Azure-Administrator-Exam-Study-Notes/raw/feature/configure-and-manage-virtual-networking/04_Configure_and_Manage_Virtual_Networking/images/subnet.JPG)
+<img src="./images/subnet.JPG" alt="Azure Subnet Architecture" width="55%"/>
 
 ---
 
