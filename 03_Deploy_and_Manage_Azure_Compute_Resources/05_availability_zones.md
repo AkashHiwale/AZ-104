@@ -37,6 +37,16 @@ This setup ensures the application stays available even if one zone goes down.
 
 ---
 
+## 📝 Exam Tips
+
+- Understand the difference between **Availability Zones** and **Availability Sets**.
+- Know that Availability Zones provide **datacenter-level fault tolerance**.
+- Be familiar with the **99.99% SLA** for VMs deployed across multiple zones.
+- Remember that Availability Zones are specific to **supported Azure regions**.
+- Be prepared to design solutions using Availability Zones for high availability and disaster recovery.
+
+---
+
 ## 🔗 References
 
 - [Availability Zones – Microsoft Docs](https://learn.microsoft.com/en-us/azure/availability-zones/az-overview)

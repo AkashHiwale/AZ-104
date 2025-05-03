@@ -4,8 +4,8 @@ This document covers two approaches to automate post-deployment tasks on Azure V
 
 ## Contents
 
-- [Custom Script Extension](./custom_script_extension.md)
-- [Run Command](./run_command.md)
+- [Custom Script Extension](./01_custom_script_extension.md)
+- [Run Command](./02_run_command.md)
 
 ## ⚖️ When to Use What?
 
