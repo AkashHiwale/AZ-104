@@ -29,6 +29,16 @@ Azure Virtual Machine Scale Sets help you to create and manage a group of **load
 
 ---
 
+## 📝 Exam Tips
+
+- Understand how **autoscaling** works in VMSS and the difference between **demand-based scaling** and **scheduled scaling**.
+- Know the benefits of **Uniform** versus **Manual** scaling modes.
+- Be familiar with how VMSS integrates with **load balancers** for traffic distribution.
+- Remember that VMSS ensures **high availability** and supports **auto-recovery**.
+- Be prepared to design solutions that require **scalability** and **fault tolerance** using VMSS.
+
+---
+
 ## 🔗 References
 
 - [Azure Virtual Machine Scale Sets – Microsoft Docs](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)

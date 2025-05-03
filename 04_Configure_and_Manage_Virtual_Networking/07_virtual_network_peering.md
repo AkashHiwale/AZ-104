@@ -43,7 +43,7 @@
 
 Here is an example how Peering is configured:
 
-![Azure Peering Architecture](https://github.com/AkashHiwale/AZ-104-Azure-Administrator-Exam-Study-Notes/raw/feature/configure-and-manage-virtual-networking/04_Configure_and_Manage_Virtual_Networking/images/Peering.JPG)
+<img src="./images/Peering.JPG" alt="Azure Peering Architecture" width="50%"/>
 
 ---
 
