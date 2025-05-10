@@ -8,7 +8,7 @@ Welcome to my study notes for the **AZ-104: Microsoft Azure Administrator** cert
 
 | Module | Topic |
 |--------|-------|
-| [00](./00_Azure_Certified_Administrator_Certificate/) | 🏅 Azure Certified: Azure Administrator Associate Certificate |
+| [00](./00_Microsoft_Certified_Azure_Administrator_Certificate/) | 🏅 Microsoft Certified: Azure Administrator Associate Certificate |
 | [01](./01_Manage_Azure_Identities_and_Governance/) | 🔐 Manage Azure Identities and Governance |
 | [02](./02_Implement_and_Manage_Storage/) | 💾 Implement and Manage Storage |
 | [03](./03_Deploy_and_Manage_Azure_Compute_Resources/) | 🖥️ Deploy and Manage Azure Compute Resources |
