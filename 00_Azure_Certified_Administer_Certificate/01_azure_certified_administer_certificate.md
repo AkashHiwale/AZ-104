@@ -1,7 +1,7 @@
 # 🏅 Microsoft Certified: Azure Administrator Associate
 
 
-<img src="./images/certificate.JPG" alt="Microsoft Certified: Azure Administrator Associate" width="70%"/>
+<img src="./images/certificate.JPG" alt="Microsoft Certified: Azure Administrator Associate" width="60%"/>
 
 ---
 
