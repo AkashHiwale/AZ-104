@@ -17,7 +17,7 @@ Welcome to my study notes for the **AZ-104: Microsoft Azure Administrator** cert
 | [06](./06_Azure_Powershell_and_Azure_CLI/) | 💻 Azure PowerShell and Azure CLI |
 | [07](./07_Azure_Resource_Manager_Templates/) | 📦 Azure Resource Manager Templates |
 | [08](./08_Bicep_Language_for_Deployment/) | 🧱 Bicep Language for Deployment |
-| [09](./09_Important_Points/) | 🧠 Manage Azure Identities and Governance |
+| [09](./09_Important_Points/) | 🧠 Important Points to Remember |
 
 ---
 
