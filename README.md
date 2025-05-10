@@ -8,7 +8,7 @@ Welcome to my study notes for the **AZ-104: Microsoft Azure Administrator** cert
 
 | Module | Topic |
 |--------|-------|
-| [00](./00_Azure_Certified_Administer_Certificate/) | 🏅 Azure Certified: Azure Administer Associate Certificate |
+| [00](./00_Azure_Certified_Administrator_Certificate/) | 🏅 Azure Certified: Azure Administrator Associate Certificate |
 | [01](./01_Manage_Azure_Identities_and_Governance/) | 🔐 Manage Azure Identities and Governance |
 | [02](./02_Implement_and_Manage_Storage/) | 💾 Implement and Manage Storage |
 | [03](./03_Deploy_and_Manage_Azure_Compute_Resources/) | 🖥️ Deploy and Manage Azure Compute Resources |
@@ -17,7 +17,7 @@ Welcome to my study notes for the **AZ-104: Microsoft Azure Administrator** cert
 | [06](./06_Azure_Powershell_and_Azure_CLI/) | 💻 Azure PowerShell and Azure CLI |
 | [07](./07_Azure_Resource_Manager_Templates/) | 📦 Azure Resource Manager Templates |
 | [08](./08_Bicep_Language_for_Deployment/) | 🧱 Bicep Language for Deployment |
-| [09](./09_Important_Points/) | 🧠 Important Points to Remember |
+| [09](./09_Important_Points_to_Remember/) | 🧠 Important Points to Remember |
 
 ---
 
